@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test/wdp-demo/static/css/main.9046e775.css",
+    "main.js": "/test/wdp-demo/static/js/main.558cad44.js",
+    "static/js/496.08debb0a.chunk.js": "/test/wdp-demo/static/js/496.08debb0a.chunk.js",
+    "static/media/axios.cjs": "/test/wdp-demo/static/media/axios.767cbb9196d492ec45d3.cjs",
+    "index.html": "/test/wdp-demo/index.html",
+    "main.9046e775.css.map": "/test/wdp-demo/static/css/main.9046e775.css.map",
+    "main.558cad44.js.map": "/test/wdp-demo/static/js/main.558cad44.js.map",
+    "496.08debb0a.chunk.js.map": "/test/wdp-demo/static/js/496.08debb0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9046e775.css",
+    "static/js/main.558cad44.js"
+  ]
+}
